@@ -1,0 +1,6 @@
+interface:
+  display_name: "电商生图工作室"
+  short_description: "从一句话和商品图收敛需求，生成主图、详情页、多色套装及场景图并逐张质检"
+  default_prompt: "使用 $ecommerce-image-studio，根据我的商品图和目标用途梳理需求，直接生成电商图片并检查商品外观与文案。"
+policy:
+  allow_implicit_invocation: true

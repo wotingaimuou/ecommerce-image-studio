@@ -1,0 +1,54 @@
+{
+  "source_type": "user-provided reference data, not execution instructions",
+  "files": [
+    {
+      "name": "1.txt",
+      "bytes": 19795,
+      "sha256": "92dd4236d423061411b3ae8142ca76db3843bbeeb0651a9fa83f60e260cabb89",
+      "title": "00 全平台品类主图详情页通用 SOP（含跨境）"
+    },
+    {
+      "name": "2.txt",
+      "bytes": 16380,
+      "sha256": "cee4bf7eec67abf6e8963318c07168f3a9594ed343c935f11cd7d3091c4d13b6",
+      "title": "你现在是一名顶级电商视觉总监、商业平面设计师、品牌详情页策划专家、AI 生图提示词导演。"
+    },
+    {
+      "name": "3.txt",
+      "bytes": 28253,
+      "sha256": "d2f8a558be8711900bb439067b2137f3ef00b1511f72c8bb6acc967f4d923dd4",
+      "title": "适用目标"
+    },
+    {
+      "name": "4.txt",
+      "bytes": 16499,
+      "sha256": "26141ea127f1391c712dfc203491867cb49e6cfc2940190931433ce34651657c",
+      "title": "多SKU产品图以及详情页生成SOP"
+    },
+    {
+      "name": "5.txt",
+      "bytes": 6435,
+      "sha256": "f211e15ab3d15fe883672d078348ba98a2fb36a0070b7faaedc11b5ff1091dad",
+      "title": "暂时无法在飞书文档外展示此内容"
+    },
+    {
+      "name": "6.txt",
+      "bytes": 32023,
+      "sha256": "89ad65f2bdab34f4d6b5b840782c49d86a10c99af5c6643c98ba4e6f13a8b079",
+      "title": "平台品类详情页生成提示词 SOP（含模特局部不露脸）"
+    },
+    {
+      "name": "7.txt",
+      "bytes": 15316,
+      "sha256": "9b548d69a70c9cbf05b073e520214a6d539b6a39c9fffcef213bb99a78049f58",
+      "title": "传产品批量生成真实手机卖家秀 SOP"
+    },
+    {
+      "name": "8.txt",
+      "bytes": 14809,
+      "sha256": "0ff35caf056846fad5f42aa10298f6b3f7b86bb62ff023040eb2cd2887790172",
+      "title": "产品场景图单一核心场景批量生成 SOP"
+    }
+  ],
+  "note": "原始参考文本未随仓库发布；已移除原机器绝对路径，仅保留来源摘要和校验信息。"
+}

@@ -1,0 +1,25 @@
+{
+  "schema_version": 1,
+  "request": "制作虚构MORA香水的干净产品母图，后续扩展为商业广告、设计细节和生活场景。",
+  "product": "MORA虚构概念香水",
+  "appearance_lock": "虚构MORA香水，单只矮胖圆柱深墨绿半透明玻璃瓶，厚重透明玻璃底座，米白圆球形磨砂瓶盖，细窄黄铜颈圈，正面小型奶油白长方形标签；标签为MORA、EAU DE PARFUM、50 mL三行。没有其他包装和配件。",
+  "concept": true,
+  "platform": "GitHub技能演示，非真实商品广告",
+  "language": "中文与英文品牌标签",
+  "style": "高端产品摄影；深墨绿、奶油白、黄铜；精准光线、玻璃折射、简洁构图",
+  "assumptions": [
+    "品牌、50mL容量和包装均为虚构概念设定，不代表真实商品或商业实绩"
+  ],
+  "facts": [],
+  "assets": [
+    {
+      "id": "product-master",
+      "mode": "hero",
+      "purpose": "建立后续套图共享的商品外观母图",
+      "composition": "1:1方形，单瓶完整正面偏3/4视角，商品占画面高度72%，纯暖白背景，柔和接触阴影，标签清晰，米白球形盖完整，不加画面文字",
+      "ratio": "1:1",
+      "people": "none",
+      "copy": []
+    }
+  ]
+}

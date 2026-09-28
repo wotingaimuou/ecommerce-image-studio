@@ -1,0 +1,10 @@
+{
+  "max_input_bytes": 1048576,
+  "max_text_chars": 12000,
+  "max_assets": 64,
+  "max_references_per_asset": 5,
+  "max_image_bytes": 52428800,
+  "max_image_pixels": 40000000,
+  "aspect_tolerance": 0.035,
+  "max_transient_retries": 2
+}
